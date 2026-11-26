@@ -97,15 +97,17 @@ Choose whether you want to enter Customer Mode or Admin Mode.
 8. Order confirmation success message
 
 ## Author and Acknowledgement
-This program is created by **[WRITE YOUR GROUP NAME HERE]** in compliance with the final project requirement in the course Object‑Oriented Programming.
+This program is created by **Group 8** in compliance with the final project requirement in the course Object‑Oriented Programming.
 
 **Lead Programmer:**
-[WRITE LEAD PROGRAMMER FULL NAME HERE]
+Medina, Kenth Nicer E. 
 
 **Members:**
-[WRITE ALL GROUP MEMBER FULL NAMES HERE]
+[Ligutan, Christian Edzel
+Borillio, Raine
+De Torres, Julius Benedict]
 
-Special thanks to **[WRITE YOUR PROFESSOR’S FULL NAME HERE]** for guiding the whole group in learning and applying all of the essential Object‑Oriented Programming concepts needed to finish this final project.
+Special thanks to **Dominic Miko Valdez** for guiding the whole group in learning and applying all of the essential Object‑Oriented Programming concepts needed to finish this final project.
 
 ## Future Enhancements
 Future developers can add a permanent database to save all menu items and order records even after the program closes. The system can also be upgraded with a proper graphical user interface, receipt generation feature, low stock inventory alerts, and a secure encrypted admin login system to further improve the complete online ordering and management experience!
