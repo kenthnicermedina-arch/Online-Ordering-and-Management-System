@@ -103,8 +103,8 @@ This program is created by **Group 8** in compliance with the final project requ
 Medina, Kenth Nicer E. 
 
 **Members:**
-[Ligutan, Christian Edzel
-Borillio, Raine
+[Ligutan, Christian Edzel, 
+Borillio, Raine M. , 
 De Torres, Julius Benedict]
 
 Special thanks to **Dominic Miko Valdez** for guiding the whole group in learning and applying all of the essential Object‑Oriented Programming concepts needed to finish this final project.
